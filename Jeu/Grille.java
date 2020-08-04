@@ -1,6 +1,6 @@
 package Jeu;
 
 
-public class Grille {
+public class Grille { /* classe pour la grille de jeu + ? */
 
 }
